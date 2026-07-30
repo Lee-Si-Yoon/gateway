@@ -144,7 +144,7 @@ const testVariables: TestVariables = {
   },
   friendli: {
     apiKey: process.env.FRIENDLI_API_KEY,
-    chatCompletions: { model: 'meta-llama/Meta-Llama-3.1-8B-Instruct' },
+    chatCompletions: { model: 'zai-org/GLM-5.2' },
   },
 };
 

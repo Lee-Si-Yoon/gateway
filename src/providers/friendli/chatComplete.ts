@@ -13,6 +13,7 @@ export const FriendliChatCompleteConfig: ProviderConfig = {
   model: {
     param: 'model',
     required: true,
+    default: 'zai-org/GLM-5.2',
   },
   messages: {
     param: 'messages',
